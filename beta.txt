@@ -1,1 +1,2 @@
 beta text
+beta 2
