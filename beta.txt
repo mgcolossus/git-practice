@@ -1,3 +1,4 @@
 beta text
 beta 2
 beta 3
+string from user2
